@@ -1,1 +1,4 @@
 # kursAI
+
+
+wiadomość testowa
